@@ -112,5 +112,5 @@
 <br>
 <a href="#" target="_blank">
   <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
-</a>
+</a>đ
 
