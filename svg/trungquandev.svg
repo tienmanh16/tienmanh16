@@ -49,7 +49,7 @@
                     25px 25px 45px RGBA(0,0,0, 0.45) inset;
           position: absolute;
           top: 50%;
-          left: 80%;
+          left: 90%;
           transform: translate(-50%, -50%) rotateX(5deg) rotateY(5deg) rotateZ(5deg);
         }
         .greeting {
