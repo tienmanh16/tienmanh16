@@ -49,7 +49,7 @@
                     25px 25px 45px RGBA(0,0,0, 0.45) inset;
           position: absolute;
           top: 50%;
-          left: 90%;
+          left: 80%;
           transform: translate(-50%, -50%) rotateX(5deg) rotateY(5deg) rotateZ(5deg);
         }
         .greeting {
@@ -79,7 +79,7 @@
 			<div class="container">
         <div class="earth"></div>
 				<div class="greeting">
-          Hi Aliens!<br/>I'm Nguyen Manh Tien from the Earth.
+          Hi Aliens!<br/>I'm Nguyen Manh from the Earth.
         </div>
         <div class="skills">
           <div class="skills_icon">
