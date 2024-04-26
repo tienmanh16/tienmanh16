@@ -2,7 +2,7 @@
 
 
 <a href="#" target="_blank">
-  <img src="svg/tienmanh.svgg" width="1200" alt="tienmanh16" />
+  <img src="svg/tienmanh.svg" width="1200" alt="tienmanh16" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
