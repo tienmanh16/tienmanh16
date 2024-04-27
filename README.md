@@ -20,7 +20,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/C++-282C34?logo=c++&logoColor=#00599C" alt="C++ logo" title="C++" height="25" /></span>
 &nbsp;
-<span><img src="https://icons8.com/icon/13679/java" alt="Java logo" title="Java" height="25" /></span>
+<span><img src="Image/java.png" alt="Java logo" title="Java" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
