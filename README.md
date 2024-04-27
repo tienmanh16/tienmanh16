@@ -16,7 +16,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Jupyter-282C34?logo=jupyter&logoColor=#F37626" alt="Jupyter logo" title="Jupyter" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/C-282C34?logo=c++&logoColor=#A8B9CC" alt="C logo" title="C" height="25" /></span>
+<span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=#A8B9CC" alt="C logo" title="C" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/C++-282C34?logo=c++&logoColor=#00599C" alt="C++ logo" title="C++" height="25" /></span>
 &nbsp;
